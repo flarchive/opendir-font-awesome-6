@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of opendir/font-awesome-6.** Not for installation: use [Packagist](https://packagist.org/packages/opendir/font-awesome-6) or the [upstream repository](https://github.com/OpenDirr/Font-Awesome).
 
-**0** versions archived · Latest: [`1.1`](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.0`
+**11** versions archived · Latest: [`1.1`](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2021-07-17 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v0.1) |
+| `0.2` | 2021-07-17 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v0.2) |
+| `0.3` | 2021-07-17 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v0.3) |
+| `0.4` | 2021-07-17 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v0.4) |
+| `0.5` | 2021-07-17 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v0.5) |
+| `0.6` | 2021-08-19 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v0.6) |
+| `0.7` | 2021-08-19 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v0.7) |
+| `0.8` | 2021-08-19 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v0.8) |
+| `0.9` | 2021-08-19 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v0.9) |
+| `1.0` | 2021-08-19 | `^1.0` | [Browse](https://github.com/flarchive/opendir-font-awesome-6/tree/archive/v1.0) |
+
+[View all 11 versions](https://github.com/flarchive/opendir-font-awesome-6/tags)
 
 Catalog entry: [packages/opendir-font-awesome-6.json](https://github.com/flarchive/archive-index/blob/main/packages/opendir-font-awesome-6.json)
 
